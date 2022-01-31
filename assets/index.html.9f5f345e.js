@@ -1,0 +1,1 @@
+const e={key:"v-15550a19",path:"/team/",title:"2020\u5E74",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"\u4EBA\u5458\u7EC4\u6210",slug:"\u4EBA\u5458\u7EC4\u6210",children:[]}],filePathRelative:"team/README.md"};export{e as data};
